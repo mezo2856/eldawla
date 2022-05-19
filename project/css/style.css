@@ -1,0 +1,17 @@
+body
+{
+
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+#showcase
+{
+min-height: 1100px;
+background: url(../poto/fezo.jpg) no-repeat center;
+background-size: cover;
+
+}
